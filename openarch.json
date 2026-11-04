@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AlfrescoLabs/openarch-cli/releases/download/v0.2.0/openarch_0.2.0_windows_amd64.zip",
+            "bin": [
+                "openarch.exe"
+            ],
+            "hash": "789ac330d7eca96871731a9e194834a8825ca870afb4578205a5c111bd37bf1f"
+        },
+        "arm64": {
+            "url": "https://github.com/AlfrescoLabs/openarch-cli/releases/download/v0.2.0/openarch_0.2.0_windows_arm64.zip",
+            "bin": [
+                "openarch.exe"
+            ],
+            "hash": "3232495e976eaa083e5250e191594b6d8abf6eac69b21f9415e7c9e6ccfd365e"
+        }
+    },
+    "homepage": "https://github.com/AlfrescoLabs/openarch-cli",
+    "license": "Apache-2.0",
+    "description": "Install and operate OpenArch with Docker Compose"
+}
