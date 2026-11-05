@@ -1,19 +1,19 @@
 {
-    "version": "0.3.1",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AlfrescoLabs/openarch-cli/releases/download/v0.3.1/openarch_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/AlfrescoLabs/openarch-cli/releases/download/v0.4.0/openarch_0.4.0_windows_amd64.zip",
             "bin": [
                 "openarch.exe"
             ],
-            "hash": "a596a847019b77b00e65f43d9d5127ef871e47867909924548f938d7e3b788de"
+            "hash": "731fea2f439c9472e17ddd9db6fde74627a1665ee74e3acd4013ee8a806a33bb"
         },
         "arm64": {
-            "url": "https://github.com/AlfrescoLabs/openarch-cli/releases/download/v0.3.1/openarch_0.3.1_windows_arm64.zip",
+            "url": "https://github.com/AlfrescoLabs/openarch-cli/releases/download/v0.4.0/openarch_0.4.0_windows_arm64.zip",
             "bin": [
                 "openarch.exe"
             ],
-            "hash": "99908a5c0ae91ed43727b0b753903eef70a116b999b7cc2325474067e2846629"
+            "hash": "c6ab2710cc3505aa7ce3268565922e7ea54efe2e0c25533fb8f570e7b6dfa3c8"
         }
     },
     "homepage": "https://github.com/AlfrescoLabs/openarch-cli",
