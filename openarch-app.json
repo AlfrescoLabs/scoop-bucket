@@ -1,0 +1,25 @@
+{
+    "version": "0.7.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AlfrescoLabs/openarch-app/releases/download/v0.7.3/openarch-app_0.7.3_windows_amd64.zip",
+            "bin": [
+                "openarch-app.exe"
+            ],
+            "hash": "60437d4261bca3790da3ddd80aa8f7a5752f5cc829b09d42bdb552c8a7e1bb19"
+        },
+        "arm64": {
+            "url": "https://github.com/AlfrescoLabs/openarch-app/releases/download/v0.7.3/openarch-app_0.7.3_windows_arm64.zip",
+            "bin": [
+                "openarch-app.exe"
+            ],
+            "hash": "d10ca0474c20fcaf03d4fb287d446b59bf943281d00f50ef07de3d23e4cccc55"
+        }
+    },
+    "homepage": "https://github.com/AlfrescoLabs/openarch-app",
+    "license": "Apache-2.0",
+    "description": "Unofficial plugin of the CLI for OpenArch that installs and runs App for OpenArch",
+    "depends": [
+        "alfrescolabs/openarch"
+    ]
+}
