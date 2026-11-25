@@ -1,19 +1,19 @@
 {
-    "version": "0.7.3",
+    "version": "0.7.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AlfrescoLabs/openarch-app/releases/download/v0.7.3/openarch-app_0.7.3_windows_amd64.zip",
+            "url": "https://github.com/AlfrescoLabs/openarch-app/releases/download/v0.7.4/openarch-app_0.7.4_windows_amd64.zip",
             "bin": [
                 "openarch-app.exe"
             ],
-            "hash": "60437d4261bca3790da3ddd80aa8f7a5752f5cc829b09d42bdb552c8a7e1bb19"
+            "hash": "7c04d0f02993e529c457c56a390341cb75d5b2cd56bd2ca47c8a6981bbd75c61"
         },
         "arm64": {
-            "url": "https://github.com/AlfrescoLabs/openarch-app/releases/download/v0.7.3/openarch-app_0.7.3_windows_arm64.zip",
+            "url": "https://github.com/AlfrescoLabs/openarch-app/releases/download/v0.7.4/openarch-app_0.7.4_windows_arm64.zip",
             "bin": [
                 "openarch-app.exe"
             ],
-            "hash": "d10ca0474c20fcaf03d4fb287d446b59bf943281d00f50ef07de3d23e4cccc55"
+            "hash": "6d6804e5e29091dc294d6695b1aabfa725b90997baf2a2300bb1fef0b0c27619"
         }
     },
     "homepage": "https://github.com/AlfrescoLabs/openarch-app",
